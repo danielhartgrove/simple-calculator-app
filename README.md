@@ -9,8 +9,8 @@ Non-overengineered and very simple calculator app that uses a mathematical gramm
 
 - TKinter should come preinstalled with Python 3, but if not you can find it [here](https://tkdocs.com/tutorial/install.html)
 
-  ## Use instructions
-  - Enter your calculation using the keypad (or type into the box) **DO NOT ENTER BRACKETS - THEY ARE UNIMPLEMENTED!!!!**
-  - Press `=`
-  - You can store results by clicking `M+` -> this will input the calculation in the window into memory
-  - You can recall results by clicking `MR` -> this will input the saved calculation into the window
+## Use instructions
+- Enter your calculation using the keypad (or type into the box) **DO NOT ENTER BRACKETS - THEY ARE UNIMPLEMENTED!!!!**
+- Press `=`
+- You can store results by clicking `M+` -> this will input the calculation in the window into memory
+- You can recall results by clicking `MR` -> this will input the saved calculation into the window
