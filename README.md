@@ -6,8 +6,7 @@ Non-overengineered and very simple calculator app that uses a mathematical gramm
 - Install Python 3 -> guide can be found [here](https://www.python.org/downloads/)
 - Using your preferred terminal, navigate to the location of this file
 - Once you are in the correct directory, execute `python3 main` and it will open the tkinter window
-
-- TKinter should come preinstalled with Python 3, but if not you can find it [here](https://tkdocs.com/tutorial/install.html)
+  - TKinter should come preinstalled with Python 3, but if not you can find it [here](https://tkdocs.com/tutorial/install.html)
 
 ## Use instructions
 - Enter your calculation using the keypad (or type into the box) **DO NOT ENTER BRACKETS - THEY ARE UNIMPLEMENTED!!!!**
